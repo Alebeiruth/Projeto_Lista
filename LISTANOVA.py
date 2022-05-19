@@ -10,6 +10,6 @@ boletim[-1][-1] = 9.8
 boletim[2].remove(8.5)
 boletim[2].append("Passou")
 
-semestre__extra_boletim = [["politica", 8.0], ["ingles", 9.6], ["musica", 9.7], ["radacao", 6.5]]
+semestre__extra_boletim = [["politica", 8.0], ["ingles", 9.6], ["musica", 9.7], ["redacao", 6.5]]
 total_boletim = semestre__extra_boletim + boletim
 print(total_boletim)
